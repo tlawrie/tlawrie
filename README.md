@@ -1,4 +1,4 @@
-### 👋 Cheers
+## 👋 Cheers
 
 Hey, my name is Tyson Lawrie and I am a software engineer working for IBM. I'm an Australian in New York with a love for automation
 
