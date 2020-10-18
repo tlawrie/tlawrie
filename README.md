@@ -37,4 +37,3 @@ I am a maintainer of [Boomerang](https://useboomerang.io) a collection of Open S
 I recommend the following projects
 - [Open Policy Agent](https://github.com/open-policy-agent/opa)
 - [Oauth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- 
