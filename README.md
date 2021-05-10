@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🏗 My Work
 
-I am a maintainer of [Boomerang](https://useboomerang.io) a collection of Open Source projects
+I am a founder and maintainer of [Boomerang](https://useboomerang.io) a collection of Open Source projects
 - Bosun: a policy-based gating system built on top of [Open Policy Agent](https://www.openpolicyagent.org/)
 - Flow: cloud-native workflow automation on top of Kubernetes.
 
@@ -37,3 +37,4 @@ I am a maintainer of [Boomerang](https://useboomerang.io) a collection of Open S
 I recommend the following projects
 - [Open Policy Agent](https://github.com/open-policy-agent/opa)
 - [Oauth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [Tekton](https://github.com/tektoncd)
