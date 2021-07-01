@@ -49,6 +49,7 @@ I recommend the following projects
 
 ### Medium
 
+- [Converting to Tekton in Boomerang Flow using Fabric8](https://tysonlawrie.medium.com/converting-to-tekton-in-boomerang-flow-using-fabric8-bb2e3212c4a1)
 - [Canceling a Tekton TaskRun with Fabric8 Kubernetes Java Client](https://tysonlawrie.medium.com/canceling-a-tekton-taskrun-with-fabric8-kubernetes-java-client-1c2bd9e05d9a)
 - [Utilizing GitHub Releases as a Helm repository](https://tysonlawrie.medium.com/utilizing-github-releases-as-a-helm-repository-1752e39ee645)
 - [https://medium.com/ibm-cloud/extending-openpolicyagent-for-cicd-gates-3a260852d626](https://medium.com/ibm-cloud/extending-openpolicyagent-for-cicd-gates-3a260852d626)
