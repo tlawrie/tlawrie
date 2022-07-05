@@ -1,6 +1,6 @@
 ## 👋 Hello
 
-Hey, my name is Tyson Lawrie and I am a software engineer working for IBM. I'm an Australian in New York with a love for automation
+Hey, my name is Tyson Lawrie and I am a software engineer working for EY. I'm an Australian who spent 7 years in New York working for IBM with a love for automation
 
 <!--
 Here are some ideas to get you started:
