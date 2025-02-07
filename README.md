@@ -25,7 +25,7 @@ I am a founder and maintainer of [Boomerang IO](https://useboomerang.io) a colle
 
 If you want to get started or view what we are up to, the [roadamp repository](https://github.com/boomerang-io/roadmap) is the place to get started!
 
-### Flowabl
+### Backstop
 
 I am a co-founder of [Backstop](https://backstop.dev) - Design Better Automation. Simpler. Faster.
 
